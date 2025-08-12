@@ -1,0 +1,19 @@
+{
+  "title": "sonic",
+  "description": "",
+  "artist": "various",
+  "author": "idw",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1755025578",
+      "groups": {
+        "": [
+          "https://grabber.zone/comics/idw-sonic-espanol/"
+        ]
+      }
+    }
+  }
+}
