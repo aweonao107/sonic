@@ -1,8 +1,42 @@
 {
-  "title": "aaa test",
+  "title": "Sonic the Hedgehog idw",
   "description": "",
-  "artist": "aa",
+  "artist": "various",
   "author": "idw",
   "cover": "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-000.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "consecuenses",
+      "volume": "",
+      "last_updated": "1755027972",
+      "groups": {
+        "": [
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-000.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-001.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-002.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-003.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-004.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-005.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-006.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-007.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-008.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-009.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-010.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-011.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-012.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-013.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-014.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-015.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-016.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-017.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-018.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-019.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-020.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-021.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-022.jpg",
+          "https://grabber.zone/wp-content/uploads/WP-manga/data/manga_6388809b6d8bc/d99ea59b0c8cf9eaf6b632cdc0f2b0ac/Sonic-The-Hedgehog-(2018-)-001-023.jpg"
+        ]
+      }
+    }
+  }
 }
